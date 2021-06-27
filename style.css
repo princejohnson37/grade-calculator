@@ -1,0 +1,39 @@
+html{
+	font-family: monospace;
+}
+.grade-title{
+	padding: 50px;
+	background-color: orangered;
+	text-align: center;
+	color: white;
+}
+
+#name-form{
+	margin-left: 0px;
+	margin-top: 80px;
+	font-size: medium;
+	text-align: center;
+}
+input{
+	margin-left: 8px;
+}
+#mark-form{
+	padding-bottom: 0%;
+	margin: 0px 0px 25% 25%;
+}
+.submit{
+	text-align: center;
+	margin: 30px 0 25% 25%;
+	width: 200px;
+}
+.grade-from{
+	padding-bottom: 0%;
+	margin: 3% 31% 3% 31%;
+}
+table, th, td {
+	font-size: 20px;
+	border: 1px solid black;
+  }
+input{
+	text-align: center;
+}
